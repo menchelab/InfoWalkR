@@ -15,12 +15,14 @@ graph_list
 ```
 
 All edgelists are structured like this:
+```
 # Graph Type: undirected
 A	B
 A1BG	ABCC4
 A1BG	ALB
 A1BG	APLP2
 A1BG	BRPF3
+```
 
 The Graph type flag is needed to determine whether the graph is directed or not.
 When a third column is present that specifies edge weight, the graph is read as a weighted graph.
