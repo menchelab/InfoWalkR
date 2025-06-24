@@ -5,7 +5,7 @@ package implementation of the MultiOme Paper
 library(InfoWalkR, quietly = TRUE)
 ```
 
-```{R}
+```R
 #read in data
 path = '<path_to_your_networks>'
 graph_list = read_graphs_from_folder(path)
@@ -13,6 +13,13 @@ graph_list = read_graphs_from_folder(path)
 graph_list
 ```
 
+```R
+```
 
+```{R}
+```
+
+```{R}
+```
 
 
