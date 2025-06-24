@@ -1,0 +1,6 @@
+gridExtra_2.3
+dplyr_1.1.4
+Matrix_1.6-4
+igraph_2.0.2
+readr_2.1.5
+ggplot2_3.5.0

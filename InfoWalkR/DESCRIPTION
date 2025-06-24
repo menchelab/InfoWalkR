@@ -1,0 +1,11 @@
+Package: InfoWalkR
+Title: Automatic selection of network layers based on largest connected component against random expectation and Mutiplex RWR exploration.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Mathilde", "Meyenberg", , "mathilde@menchelab.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5306-4978"))
+Description: Automatic selection of network layers based on largest connected component against random expectation (node attribute randomization). Informed Propagation Algorithm (Random Walk with Restart on layer weighted multiplex network)
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
